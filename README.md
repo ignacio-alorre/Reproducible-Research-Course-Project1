@@ -19,7 +19,7 @@ There is also some documentation of the database available. Here you will find h
 
 The events in the database start in the year 1950 and end in November 2011. In the earlier years of the database there are generally fewer events recorded, most likely due to a lack of good records. More recent years should be considered more complete.
 
-**Review criteriamenos **
+**Review criteriamenos**
 
 1. Has either a (1) valid RPubs URL pointing to a data analysis document for this assignment been submitted; or (2) a complete PDF file presenting the data analysis been uploaded?
 2. Is the document written in English?
@@ -56,9 +56,9 @@ Consider writing your report as if it were to be read by a government or municip
 
 For this assignment you will need some specific tools
 
-*RStudio: You will need RStudio to publish your completed analysis document to RPubs. You can also use RStudio to edit/write your analysis.
+* RStudio: You will need RStudio to publish your completed analysis document to RPubs. You can also use RStudio to edit/write your analysis.
 
-*knitr: You will need the knitr package in order to compile your R Markdown document and convert it to HTML
+* knitr: You will need the knitr package in order to compile your R Markdown document and convert it to HTML
 
 **Document Layout**
 
